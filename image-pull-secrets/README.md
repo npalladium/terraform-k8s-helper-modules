@@ -1,5 +1,7 @@
 # Image Pull Secrets Helper
 
+[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
